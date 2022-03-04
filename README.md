@@ -1,10 +1,7 @@
-### How do I get set up? ###
+### A VR Turtle Graphics System ###
 
-Current compatible versions for template: Latest Engine Version (Template is not kept to as many compatible versions as the plugin itself).
+Prototype of a spatial interface for simplified [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics). Implmented using Unreal Blueprints with the [VRExpansion Plugin/Template](https://vreue4.com/).
 
-* Right click on VRExpPluginExample.uproject and switch to your preferred (compatible) engine version.
-* If project files did not automatically generate after switching, right click again and select "Generate Visual Studio Files"
-* Open Solution and build - Or download the pre-built binary package from the forum thread for the engine version and place into the plugins directory.
-* Run
+Video (un-narrated) of the prototype can be watched on [YouTube](https://youtu.be/FR4IeJE4xC4)
 
-You need to have visual studio installed and follow the UE4 setup guide for it: https://docs.unrealengine.com/latest/INT/Programming/Development/VisualStudioSetup/
+[![Screenshot](https://img.youtube.com/vi/FR4IeJE4xC4/hqdefault.jpg)](https://youtu.be/FR4IeJE4xC4)
